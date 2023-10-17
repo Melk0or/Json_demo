@@ -1,8 +1,8 @@
 {
   "liked": [],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "name": "BUBUBBEBE", "price": 12233 },
+    { "id": 2, "name": "BUBUBEBE", "price": 12333 }
   ],
   "profile": {
     "name": "typicode"
